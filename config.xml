@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
 		xmlns:gap   = "http://phonegap.com/ns/1.0"
-		id	    = "com.whatmake.shinjia.scarlet"
-		versionCode = "6" 
+		id	    = "com.whatmake.shinjia.test3"
+		versionCode = "1" 
 		version     = "1.0.6" >
  
-	<name>血字的研究</name>
+	<name>血字的研究 part 3</name>
  
 	<description>
 		第一本電子書，福爾摩斯 《血字的研究》 ，柯林道爾著
